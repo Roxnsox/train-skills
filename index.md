@@ -9,3 +9,5 @@ and
 ##### H5
 
 ###### But the smallest, teeniest of the tiniest, little one is all of the other headers favorite, H6 
+
+![Image of a animated imaginary blue creature dressed yellol attire named Yaktocat](https://octodex.github.com/images/yaktocat.png)
